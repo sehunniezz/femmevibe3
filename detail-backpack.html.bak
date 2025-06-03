@@ -16,10 +16,8 @@
             </div>
             <nav>
                 <ul id="MenuItems">     <!--id js--> 
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="products.html">Products</a></li>
-                    <li><a href="about.html">About</a></li>
-                    <li><a href="buku-tamu.html">Buku Tamu</a></li>
+                    <li><a href="https://wa.link/w5pwr8">WhattsApp</a></li>
+                    <li><a href="https://www.instagram.com/brickclothes_store/">Instagram</a></li>
                 </ul>
             </nav>
             <a href="cart.html"><img src="images/cart.png" width="30px" height="30px"></a>
@@ -32,27 +30,27 @@
     <div class="small-container single-product">
         <div class="row">
             <div class="col-2">
-                <img src="images/tshirtbear.jpg" width="100%" id="ProductImg">
+                <img src="images/backpack.jpg" width="100%" id="ProductImg">
 
                 <div class="small-img-row">
                     <div class="small-img-col">
-                        <img src="images/tshirtbear.jpg" width="100%" class="small-img">
+                        <img src="images/backpack-1.jpg" width="100%" class="small-img">
                     </div>
                     <div class="small-img-col">
-                        <img src="images/tshirtbear-1.jpg" width="100%" class="small-img">
+                        <img src="images/backpack-2.jpg" width="100%" class="small-img">
                     </div>
                     <div class="small-img-col">
-                        <img src="images/tshirtbear-2.jpg" width="100%" class="small-img">
+                        <img src="images/backpack-3.jpg" width="100%" class="small-img">
                     </div>
                 </div>
 
             </div>
             <div class="col-2">
                <p>Detail Produk</p>
-               <h1>T-Shirt Bear</h1> 
-               <h4>Rp80.000</h4>
-               <a href="https://wa.link/na0xuu" class="btn">Beli</a>
-			   <!--
+               <h1>Backpack FemmeVibe</h1> 
+               <h4>Rp200.000</h4>
+               <a href="pesan.php" class="btn">Beli</a>
+               <!--
                 <select>
                     <option>Select Size</option>
                     <option>XXL</option>
@@ -65,8 +63,7 @@
                 <a href="cart.html" class="btn">Add to Cart</a>
                 -->
                 <h3>Deskripsi Produk <i class="fa fa-indent"></i></h3>
-                <p class="desc">Menggunakan bahan bermaterial full cotton, sablon printing, kualitas jahitan terbaik. 
-Tersedia ukuran M, L, XL, XXL</p>
+                <p class="desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati facere aliquid cumque distinctio veritatis molestiae aliquam natus error nemo molestias nam quidem ips</p>
             </div>
         </div>
     </div>
@@ -83,33 +80,9 @@ Tersedia ukuran M, L, XL, XXL</p>
 <!------------ products ----------->
     <div class="small-container">
         <div class="row">               <!--mengatur isi konten-->
-           <div class="col-4"><a href="tasproduk.html">
-                <img src="tas.jpg">
-                <h4>Tas Ransel FemmeVibe</h4>
-                <div class="ratting">
-                    <i class="fa fa-star"></i>
-                    <i class="fa fa-star"></i>
-                    <i class="fa fa-star"></i>
-                    <i class="fa fa-star-half-o"></i>
-                    <i class="fa fa-star-o"></i>
-                </a></div>
-                <p>Rp450.000</p>
-            </div>
-            <div class="col-4"><a href="sliponproduk.html">
-                <img src="slipon.jpg">
-                <h4>Slip On</h4>
-                <div class="ratting">
-                    <i class="fa fa-star"></i>
-                    <i class="fa fa-star"></i>
-                    <i class="fa fa-star"></i>
-                    <i class="fa fa-star"></i>
-                    <i class="fa fa-star-half-o"></i>
-                </a></div>
-                <p>Rp95.000</p>
-            </div>
-            <div class="col-4"><a href="celanakargoproduk.html">         <!-- mengatur isi produk--> 
-                <img src="images/celanapanjangkargo.jpg">
-                <h4>Celana Panjang Cargo</h4>
+            <div class="col-4"><a href="product-detail.html">
+                <img src="images/tshirtbillieeilish.jpg">
+                <h4>T-Shirt Billie Eilish</h4>
                 <div class="ratting">
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star"></i>
@@ -117,7 +90,43 @@ Tersedia ukuran M, L, XL, XXL</p>
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </a></div>
-                <p>Rp100.000</p>
+                <p>Rp80.000</p>
+            </div>
+            <div class="col-4"><a href="product-detail.html">
+                <img src="images/shortpantcargo.jpg">
+                <h4>Celana Pendek</h4>
+                <div class="ratting">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-half-o"></i>
+                    <i class="fa fa-star-o"></i>
+                </a></div>
+                <p>Rp60.000</p>
+            </div>
+            <div class="col-4"><a href="product-detail.html">
+                <img src="images/hoodiewash.jpg">
+                <h4>Hoodie Washed</h4>
+                <div class="ratting">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-half-o"></i>
+                </a></div>
+                <p>Rp200.000</p>
+            </div>
+            <div class="col-4"><a href="product-detail.html">
+                <img src="images/tshirtbear.jpg">
+                <h4>T-Shirt Bear</h4>
+                <div class="ratting">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-o"></i>
+                </a></div>
+                <p>Rp80.000</p>
             </div>
         </div>
     </div>
@@ -141,13 +150,15 @@ Tersedia ukuran M, L, XL, XXL</p>
             <div class="footer-col-3">
                 <h3>Follow Us</h3>
                 <ul>
-                    <li><a href="https://wa.link/w5pwr8">WhattsApp</a></li>
-                    <li><a href="https://www.instagram.com/brickclothes_store/">Instagram</a></li>
+                    <li><a href="">Facebook</a></li>
+                    <li><a href="">Twitter</a></li>
+                    <li><a href="">Instagram</a></li>
+                    <li><a href="">Youtube</a></li>
                 </ul>
             </div>
         </div>
         <hr>
-        <p class="copyright">Copyright 2025 - Kurnia Nurhajijah, Richa Cinta Sari</p>
+        <p class="copyright">Copyright 2025 - FemmeVibe</p>
     </div>
 </div>
 
